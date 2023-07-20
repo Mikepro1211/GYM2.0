@@ -26,7 +26,7 @@ body{
     /*font-family: 'Roboto Mono', monospace; /*Roboto Mono*/
     /*font-family: 'Roboto', sans-serif; /*Roboto*/
     /*font-family: 'Edo SZ', normal; /*Edo SZ*/
-    background-color: #fff;
+    background-color: #f9fbfb;
 }
 
 .contenido_heroe{
@@ -37,7 +37,7 @@ body{
     background-position: center;
     position: relative;
     background-repeat: no-repeat;
-    /*background-attachment: fixed; /*lo hace movil*/
+    background-attachment: fixed; /*lo hace movil*/
 }
 
 .contenido_sub_heroe{
@@ -68,10 +68,11 @@ nav{
     text-align: center;
     margin-bottom: 0px;
 }
-
+/*
 .nav__items__foto{
-    width: 8%;
+
 }
+*/
 
 .contenido_header{
     color: #000;
