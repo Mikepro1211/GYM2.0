@@ -1,3 +1,4 @@
+/*Index.css updated 20/07/2023*/
 /*tipografia roboto mono*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;700&display=swap');
 
@@ -57,6 +58,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+ 
 }
 
 .contenedor_aliado{
@@ -98,8 +100,8 @@ nav{
 }
 
 .nav__items{
-    border: 1px solid #ffc431;
-    background: #ffc431;
+    border: 1px solid #60eb14;
+    background: #0f0e0e;
     color: #fff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -112,14 +114,15 @@ nav{
     padding: 10px 15px;
     border-radius: 5px;
 }
-
+/*
 .aliado__wap{
     border: 1px solid #000;
-    background: #6eb5a5;
+    background: #dd5e0a;
     color: #000;
     padding: 10px 15px;
     border-radius: 5px;
 }
+*/
 
 .texto_heroe{
     display: flex;
@@ -135,6 +138,7 @@ nav{
 .texto_heroe h1{
     font-size: 50px;
     color: #fff;
+    
 }
 
 .titulo__piePagina{
@@ -149,6 +153,7 @@ nav{
     font-size: 30px;
     margin-bottom: 25px;
 }
+
 
 .subtitulo__piePagina{
     display: flex;
